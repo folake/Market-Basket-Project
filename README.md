@@ -39,4 +39,4 @@ This repository contains a Python script for performing Market Basket Analysis u
 - Tune parameters for the Apriori algorithm to observe the impact on results.
 - Conduct further data exploration for deeper insights into customer behavior.
 
-Feel free to explore the code and adapt it for your own datasets and analysis needs.
+
